@@ -3,35 +3,35 @@ import "./App.css";
 
 const questions = [
   {
-    questionText: "Qual o idiomafalado no Brasil?",
+    questionText: "Qual o desses animes não é feito pelo trigger?",
     answerOptions: [
-      { answerText: "Português", isCorrect: true },
-      { answerText: "Inglês", isCorrect: false },
-      { answerText: "Francês", isCorrect: false },
-      { answerText: "Alemão", isCorrect: false },
+      { answerText: "Inou battle wa", isCorrect: true },
+      { answerText: "Panty Stocking", isCorrect: false },
+      { answerText: "Kill la Kill", isCorrect: false },
+      { answerText: "Little Witch academia", isCorrect: false },
     ],
   },
   {
     questionText:
-      "Quais os países que têm a maior e a menor expectativa de vida do mundo?",
+      "Qual Desses animes vou dirigido por Hosoda Mamoru?",
     answerOptions: [
-      { answerText: "Japão e Serra Leoa", isCorrect: true },
-      { answerText: "Austrália e Afeganistã", isCorrect: false },
-      { answerText: "Itália e Chade", isCorrect: false },
-      { answerText: "Brasil e Congo", isCorrect: false },
+      { answerText: "Summer Wars", isCorrect: true },
+      { answerText: "Jojo no Kimyou na Bouken", isCorrect: false },
+      { answerText: "Death Note", isCorrect: false },
+      { answerText: "Shigatsu wa kimi no Uso", isCorrect: false },
     ],
   },
   {
-    questionText: "Qual empresa criou o Iphone?",
+    questionText: "Quais desses animes não possui musicas cantadas pela LiSA?",
     answerOptions: [
-      { answerText: "Apple", isCorrect: true },
-      { answerText: "Intel", isCorrect: false },
-      { answerText: "Amazon", isCorrect: false },
-      { answerText: "Microsoft", isCorrect: false },
+      { answerText: "Naruto", isCorrect: true },
+      { answerText: "SAO", isCorrect: false },
+      { answerText: "Kimetsu", isCorrect: false },
+      { answerText: "Fate", isCorrect: false },
     ],
   },
   {
-    questionText: "Como aprender a programar?",
+    questionText: "Quais desses animes não possui musicas cantadas pela LiSA?",
     answerOptions: [
       { answerText: "Praticando o que se aprende", isCorrect: true },
       { answerText: "Vendo vídeo", isCorrect: false },

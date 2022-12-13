@@ -31,12 +31,12 @@ const questions = [
     ],
   },
   {
-    questionText: "Quais desses animes não possui musicas cantadas pela LiSA?",
+    questionText: "Qual desses diretores já recebeu um oscar?",
     answerOptions: [
-      { answerText: "Praticando o que se aprende", isCorrect: true },
-      { answerText: "Vendo vídeo", isCorrect: false },
-      { answerText: "Lendo", isCorrect: false },
-      { answerText: "Dormindo", isCorrect: false },
+      { answerText: "Hayao Miyazaki", isCorrect: true },
+      { answerText: "satoshi Kon", isCorrect: false },
+      { answerText: "Hosoda Mamoru", isCorrect: false },
+      { answerText: "Makoto shinkai", isCorrect: false },
     ],
   },
 ];

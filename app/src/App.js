@@ -5,8 +5,8 @@ const questions = [
   {
     questionText: "Qual o desses animes não é feito pelo trigger?",
     answerOptions: [
-      { answerText: "Inou battle wa", isCorrect: true },
-      { answerText: "Panty Stocking", isCorrect: false },
+      { answerText: "Panty & Stocking", isCorrect: true },
+      { answerText: "Inou Battle wa", isCorrect: false },
       { answerText: "Kill la Kill", isCorrect: false },
       { answerText: "Little Witch academia", isCorrect: false },
     ],
